@@ -33,7 +33,7 @@ public class ConferenceController {
     @GetMapping("/conference")
     public String greeting() {
 
-        return "Welcome to the 2020 Riiid Labs Conference!";
+        return "Welcome to the 2020 Conference!";
     }
 
     /**
